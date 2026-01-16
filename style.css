@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #954aff;
+  text-align: center;
+  font-size: 3rem;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
